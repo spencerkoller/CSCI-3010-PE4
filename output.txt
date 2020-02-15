@@ -1,0 +1,136 @@
+Tic-Tac-Toe      
+     |     |     
+     |     |     
+_____|_____|_____
+     |     |
+     |     |
+_____|_____|_____
+     |     |     
+     |     |   
+     |     |
+enter choice x or o
+x
+enter a position for the move, 1-9
+1
+Tic-Tac-Toe
+     |     |
+x     |     |
+_____|_____|_____
+     |     |
+     |     |
+_____|_____|_____
+     |     |     
+     |     |
+     |     |
+enter choice x or o
+o
+enter a position for the move, 1-9
+5
+Tic-Tac-Toe
+     |     |
+x     |     |
+_____|_____|_____
+     |     |
+     | o    |  
+_____|_____|_____
+     |     |
+     |     |
+     |     |
+enter choice x or o
+x
+enter a position for the move, 1-9
+9
+Tic-Tac-Toe
+     |     |
+x     |     |
+_____|_____|_____
+     |     |     
+     | o    |
+_____|_____|_____
+     |     |
+     |     |  x
+     |     |
+enter choice x or o
+o
+enter a position for the move, 1-9
+7
+Tic-Tac-Toe
+     |     |
+x     |     |
+_____|_____|_____
+     |     |
+     | o    |
+_____|_____|_____
+     |     |
+o     |     |  x
+     |     |
+enter choice x or o
+x
+enter a position for the move, 1-9
+3
+Tic-Tac-Toe
+     |     |
+x     |     |  x
+_____|_____|_____
+     |     |     
+     | o    |
+_____|_____|_____
+     |     |
+o     |     |  x
+     |     |
+enter choice x or o
+o
+enter a position for the move, 1-9
+2
+Tic-Tac-Toe
+     |     |
+x     | o    |  x
+_____|_____|_____
+     |     |
+     | o    |
+_____|_____|_____
+     |     |
+o     |     |  x
+     |     |
+enter choice x or o
+x
+enter a position for the move, 1-9
+6
+Tic-Tac-Toe
+     |     |
+x     | o    |  x
+_____|_____|_____
+     |     |
+     | o    |  x
+_____|_____|_____
+     |     |
+o     |     |  x
+     |     |
+enter choice x or o
+o
+enter a position for the move, 1-9
+8
+Tic-Tac-Toe
+     |     |
+x     | o    |  x
+_____|_____|_____
+     |     |
+     | o    |  x
+_____|_____|_____
+     |     |
+o     | o    |  x
+     |     |
+enter choice x or o
+x
+enter a position for the move, 1-9
+4
+Tic-Tac-Toe
+     |     |
+x     | o    |  x
+_____|_____|_____
+     |     |
+x     | o    |  x
+_____|_____|_____
+     |     |
+o     | o    |  x
+     |     |

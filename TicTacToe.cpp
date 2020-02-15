@@ -17,7 +17,6 @@ std::string * CreateBoard(){
     return boardArr;
 }
 
-
 void DisplayBoard(std::string * arr){
     std::cout << "Tic-Tac-Toe" << std::endl;
     std::cout << "     |     |     " << std::endl;
